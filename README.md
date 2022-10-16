@@ -4,6 +4,8 @@
 
 ### Features coming:
 
+#### TODO
+
 - [] inverting on the fly.
 - [] adjusting contrast on the fly.
 - [] adding a tui framework for these.
