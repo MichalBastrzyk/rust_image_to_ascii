@@ -6,6 +6,7 @@
 
 #### TODO
 
+- [] better flags and more arguments.
 - [] inverting on the fly.
 - [] adjusting contrast on the fly.
 - [] adding a tui framework for these.
